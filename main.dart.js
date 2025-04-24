@@ -44654,7 +44654,7 @@ a5(){var s=$.aq()
 return new A.WF(new A.dx(B.aO,s),new A.dx(B.aO,s),B.im,new A.by(null,t.am),A.ni())}}
 A.WF.prototype={
 H(a){var s=this,r=null,q=A.cj(25),p=A.b0(r,20,r),o=$.eu(),n=t.p
-return A.RA(new A.aQ(new A.a1(12,20,12,20),A.bx(A.a([A.c6(new A.aQ(new A.a1(12,20,12,20),A.a9d(A.bx(A.a([p,A.a2("\uc544\uc774\ub514",r,r,r,r,o,r,r),A.iN(s.e,r,"\uc804\ud654\ubc88\ud638",B.I7,!1,r,new A.auL()),A.b0(r,20,r),A.a2("\ube44\ubc00\ubc88\ud638",r,r,r,r,o,r,r),A.iN(s.d,r,"\uc601\ubb38,\uc22b\uc790 \uc870\ud569",B.I8,s.r,A.fB(r,r,A.fg(s.f,r,r,r),r,r,new A.auM(s),r,r,r),new A.auN())],n),B.B,B.r,B.x,0),s.w),r),B.u,r,new A.cJ(B.j,r,r,r,new A.bz(q,new A.aN(B.bc,1,B.y,-1))),r,r,r,r),A.b0(r,30,r),A.a2(s.y,r,r,r,r,$.aGx(),r,r),new A.oL("\ub85c\uadf8\uc778",B.j,new A.auO(s),B.X,r)],n),B.A,B.r,B.x,0),r),r,B.a9,r,r,B.aI)}}
+return A.RA(new A.aQ(new A.a1(12,20,12,20),A.bx(A.a([A.c6(new A.aQ(new A.a1(12,20,12,20),A.a9d(A.bx(A.a([p,A.a2("\uc544\uc774\ub514",r,r,r,r,o,r,r),A.iN(s.e,r,"\uc774\uba54\uc77c",B.I7,!1,r,new A.auL()),A.b0(r,20,r),A.a2("\ube44\ubc00\ubc88\ud638",r,r,r,r,o,r,r),A.iN(s.d,r,"\uc601\ubb38,\uc22b\uc790 \uc870\ud569",B.I8,s.r,A.fB(r,r,A.fg(s.f,r,r,r),r,r,new A.auM(s),r,r,r),new A.auN())],n),B.B,B.r,B.x,0),s.w),r),B.u,r,new A.cJ(B.j,r,r,r,new A.bz(q,new A.aN(B.bc,1,B.y,-1))),r,r,r,r),A.b0(r,30,r),A.a2(s.y,r,r,r,r,$.aGx(),r,r),new A.oL("\ub85c\uadf8\uc778",B.j,new A.auO(s),B.X,r)],n),B.A,B.r,B.x,0),r),r,B.a9,r,r,B.aI)}}
 A.auL.prototype={
 $1(a){var s
 if(a.length===0)return"Please fill in this field"
@@ -44965,7 +44965,7 @@ m=A.nq(new A.asg(),A.ps(s.h(0,h),s.h(0,g)),t.N)
 l=A.b0(i,i,5)
 k=J.d(s.h(0,h),"AM")?"\uc624\uc804":"\uc624\ud6c4 "
 j=t.p
-return A.eC(!1,i,!0,A.bK(A.a([f,new A.aQ(new A.a1(10,0,0,0),A.bx(A.a([q,o,A.bK(A.a([m,l,A.a2("\uc624\ub298 \ucd9c\ubc1c: ("+k+A.j(s.h(0,g))+"\uc2dc\uae4c\uc9c0",i,i,i,i,p,i,i)],j),B.A,B.r,B.x,0),A.a2(A.j(J.cK(J.cK(s.h(0,"pricePoints"),0),"price"))+" \uc6d0",i,i,i,i,n,i,i)],j),B.B,B.r,B.x,0),i),new A.kE(i),A.fB(i,i,A.fg(B.lM,i,i,18),i,i,new A.ash(s),i,i,i)],j),B.B,B.r,B.x,0),i,!0,i,i,i,i,i,i,i,i,i,new A.asi(r,a),i,i,i,i)},
+return A.eC(!1,i,!0,A.bK(A.a([f,new A.aQ(new A.a1(10,0,0,0),A.bx(A.a([q,o,A.bK(A.a([m,l,A.a2("\uc624\ub298 \ucd9c\ubc1c: "+k+A.j(s.h(0,g))+"\uc2dc\uae4c\uc9c0",i,i,i,i,p,i,i)],j),B.A,B.r,B.x,0),A.a2(A.j(J.cK(J.cK(s.h(0,"pricePoints"),0),"price"))+" \uc6d0",i,i,i,i,n,i,i)],j),B.B,B.r,B.x,0),i),new A.kE(i),A.fB(i,i,A.fg(B.lM,i,i,18),i,i,new A.ash(s),i,i,i)],j),B.B,B.r,B.x,0),i,!0,i,i,i,i,i,i,i,i,i,new A.asi(r,a),i,i,i,i)},
 $S:423}
 A.asi.prototype={
 $0(){var s=0,r=A.w(t.H),q=this,p,o,n,m,l,k
@@ -46590,11 +46590,11 @@ if(l==null)l=""
 p=q.a
 o=p.a.c
 n=p.w
-n=o.x[A.dY(n==null?"1":n,null)]
+n=o.x[A.dY(n==null?"0":n,null)]
 m=p.a.c
 p=p.w
 s=2
-return A.q(A.a1z(m.x[A.dY(p==null?"1":p,null)].b,o.a,n.a,l),$async$$0)
+return A.q(A.a1z(m.x[A.dY(p==null?"0":p,null)].b,o.a,n.a,l),$async$$0)
 case 2:A.dm(q.b,!1).pk("/placeOrderScreen",null,t.X)
 return A.u(null,r)}})
 return A.v($async$$0,r)},
